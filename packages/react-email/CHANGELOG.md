@@ -1,5 +1,11 @@
 # react-email
 
+## 6.9.1
+
+### Patch Changes
+
+- ea02028: Serve static assets with URL-encoded filenames correctly in the preview server while preventing decoded paths from escaping the static directory.
+
 ## 6.9.0
 
 ## 6.8.1
